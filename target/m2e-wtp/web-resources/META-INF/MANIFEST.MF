@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: yihai
+Build-Jdk: 9.0.1
+Implementation-Title: practice
+Implementation-Version: 1.5.7.RELEASE
+Implementation-Vendor-Id: com.springboot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/practice/
+Created-By: Maven Integration for Eclipse
+
